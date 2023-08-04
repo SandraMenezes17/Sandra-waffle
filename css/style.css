@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(253, 241, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#caixa {
+    background-color: paleturquoise;
+    margin: 1% 15% 2%;
+    border-radius: 10px;
+}
+#imagem {
+    border-radius: 10px;
+    height: 200px;
+    width: 550px;
+    background: url('../assets/pexels-anurag-ganguly-789327.jpg') no-repeat top center/cover;
+    background-position: center center;
+    margin: 0 auto;
+    
+}
+h1, h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+#paragrafo {
+    text-align: center;
+}
+p {
+    text-align: right;
+    width: 550px;
+    margin: 0 auto;
+    color: rgb(199, 191, 191);
+    font-size: 10px;
+}
+
+ul, ol {
+    line-height: 36px;
+}
